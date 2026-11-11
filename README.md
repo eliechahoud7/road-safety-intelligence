@@ -2,6 +2,13 @@
 
 **Data engineering, statistical analysis and geospatial data science on French road-injury accidents (2019–2025).**
 
+![Python 3.13](https://img.shields.io/badge/Python-3.13-3776AB?logo=python&logoColor=white)
+![PostgreSQL 18](https://img.shields.io/badge/PostgreSQL-18-4169E1?logo=postgresql&logoColor=white)
+![PostGIS 3.6](https://img.shields.io/badge/PostGIS-3.6-336791)
+![Streamlit 1.67](https://img.shields.io/badge/Streamlit-1.67-FF4B4B?logo=streamlit&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-Compose-2496ED?logo=docker&logoColor=white)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+
 An end-to-end, reproducible pipeline built on the official French road-accident database (BAAC, ONISR):
 raw-data acquisition with checksums → data-quality profiling → geographic validation against official IGN
 boundaries → PostgreSQL/PostGIS warehouse (staging → clean → analytics) → statistical and geospatial
@@ -28,6 +35,40 @@ analysis → interactive Streamlit dashboard.
 
 All results describe **police-recorded injury accidents** and their **concentration**, not risk: no traffic-volume
 (exposure) data exists. See [Limitations](#limitations).
+
+---
+
+## Features
+
+- **Reproducible acquisition** — official files downloaded by script, checked against the publisher's size/MD5,
+  SHA-256 recorded in committed manifests; raw files are never modified.
+- **Data-quality profiling** of the 28 BAAC files (4 tables per year: characteristics, locations, vehicles, road users):
+  schema drift, missing-value tokens, key uniqueness, joins, coordinate precision.
+- **Geographic validation** — point-in-polygon checks against the IGN boundaries of each accident year; obsolete
+  commune codes harmonised with the INSEE COG history; anomalies flagged, coordinates never silently corrected.
+- **Layered PostgreSQL/PostGIS warehouse** (staging → clean → analytics) with lineage, primary/foreign keys and no
+  double counting across one-to-many tables.
+- **Independent validation at every stage** — 509 automated checks, results stored in `meta.dq_check`.
+- **Descriptive statistical analysis** — temporal patterns, severity, environment and road users (χ², Cramér's V,
+  95 % confidence intervals); no machine learning or predictive modelling.
+- **Geospatial analysis** — department and commune distributions, 1 km grid hotspots and their persistence across years.
+- **Interactive Streamlit dashboard** — six sections, year and department filters, read-only database access,
+  Light / Dark mode.
+
+## Tech stack
+
+| Area | Tools |
+|---|---|
+| Database | PostgreSQL 18 + PostGIS 3.6 (Docker Compose, image pinned by digest) |
+| Language | Python 3.13 |
+| Data processing | pandas 3.1, NumPy 2.5 |
+| Geospatial | GeoPandas 1.2, Shapely 2.2, pyproj 3.8, pyogrio 0.13 |
+| Database access | psycopg 3.3 |
+| Statistics | SciPy 1.18 |
+| Static figures (reports) | Matplotlib 3.11, seaborn 0.13 |
+| Dashboard | Streamlit 1.67, Plotly 7.1 (MapLibre maps, OpenStreetMap tiles) |
+
+Exact versions: [`requirements.txt`](requirements.txt).
 
 ---
 
@@ -171,8 +212,11 @@ streamlit run app/streamlit_app.py      # then open http://localhost:8501
 | Map tiles (dashboard) | © OpenStreetMap contributors | ODbL | shown on every map |
 
 Raw data are **not** redistributed in this repository; the acquisition scripts download them from the official
-sources and record their checksums in the committed manifests. The project code is released under the
-[MIT licence](LICENSE), which does not apply to the external data.
+sources and record their checksums in the committed manifests.
+
+**Licence scope:** the [MIT licence](LICENSE) covers the original source code, SQL and documentation of this
+project only. External datasets (ONISR BAAC, IGN ADMIN EXPRESS COG, INSEE COG) and map tiles (OpenStreetMap) are
+**not** covered; they remain under their own licences and attribution requirements listed above.
 
 ## Limitations
 
