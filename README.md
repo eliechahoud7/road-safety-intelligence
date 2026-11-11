@@ -31,7 +31,7 @@ analysis → interactive Streamlit dashboard.
 - **Night accidents are about twice as often fatal** (10.0 % between 00:00 and 05:59 vs 5.2 % during the day).
 - **Rural vs urban:** accidents outside built-up areas are 3.5× as often fatal (10.3 % vs 3.0 %; Cramér's V = 0.26).
 - **Vulnerable users:** pedestrians, two/three-wheelers and cyclists have the highest killed-or-hospitalised shares (27–34 %); users aged 75+ the highest fatality share (8.4 %).
-- **Hotspots:** 1 % of 1 km cells hold 32.5 % of accidents but only 6.2 % of fatal accidents — accidents concentrate in cities, fatal accidents are dispersed on rural networks.
+- **Hotspots:** 1 % of non-empty 1 km cells hold 32.5 % of accidents but only 6.2 % of fatal accidents — accidents concentrate in cities, fatal accidents are dispersed on rural networks.
 
 All results describe **police-recorded injury accidents** and their **concentration**, not risk: no traffic-volume
 (exposure) data exists. See [Limitations](#limitations).
@@ -112,9 +112,9 @@ data, chart colours, colour scales and the OpenStreetMap basemap stay the same i
 |---|---|
 | ![Temporal](docs/images/02_temporal_analysis.png) | ![Geospatial](docs/images/03_geospatial_analysis.png) |
 
-| Hotspot explorer (Paris, 1 km cells) |
-|---|
-| ![Hotspots](docs/images/04_hotspot_explorer.png) |
+| Hotspot explorer (Paris, 1 km cells) | Dark mode (national overview) |
+|---|---|
+| ![Hotspots](docs/images/04_hotspot_explorer.png) | ![Dark mode](docs/images/05_dark_mode.png) |
 
 ---
 
@@ -211,6 +211,12 @@ streamlit run app/streamlit_app.py      # then open http://localhost:8501
 | [Code officiel géographique 2026](https://www.insee.fr/fr/information/8740222) | INSEE | Licence Ouverte | "Source : INSEE, COG" |
 | Map tiles (dashboard) | © OpenStreetMap contributors | ODbL | shown on every map |
 
+**BAAC structure:** one record per police-recorded injury accident, published yearly as 4 linked CSV tables —
+characteristics (`caracteristiques`: date, time, location, lighting, weather), locations (`lieux`: road category
+and layout), vehicles (`vehicules`) and road users (`usagers`: including injury severity) — linked by the accident
+identifier `Num_Acc` (`Accident_Id` in the 2022 characteristics file); 7 years × 4 tables = 28 files. File names
+vary between years (e.g. `carcteristiques-2022.csv`, `caract-2023.csv`).
+
 Raw data are **not** redistributed in this repository; the acquisition scripts download them from the official
 sources and record their checksums in the committed manifests.
 
@@ -226,4 +232,16 @@ project only. External datasets (ONISR BAAC, IGN ADMIN EXPRESS COG, INSEE COG) a
 - **Geography:** 659 accidents (0.18 %) excluded from point analysis (606 wrong-commune points kept for sensitivity); 11 proposed coordinate corrections are documented but not applied; 2019–2020 coordinates are less precise.
 - **Descriptive statistics only:** bivariate associations (χ², Cramér's V) — no causal claims, no predictive modelling.
 
-Full methodology and evidence: [`reports/`](reports) (Phase 1 data quality → Phase 6 dashboard).
+## Methodology & reports
+
+Full methodology and evidence, in project order:
+
+| Phase | Report |
+|---|---|
+| 1 — Data quality | [Data quality report](reports/phase1/data_quality_report.md) |
+| Geography | [Geographic validation](reports/geography/geographic_validation_report.md) · [Commune-code mapping](reports/geography/commune_code_mapping_report.md) |
+| 2 — Design | [Architecture](reports/phase2/architecture_design.md) · [Database schema](reports/phase2/database_schema.md) · [Data dictionary](reports/phase2/data_dictionary.md) · [Geographic data model](reports/phase2/geographic_data_model.md) · [Design decisions](reports/phase2/phase2_design_decisions.md) |
+| 3 — Pipeline | [Staging](reports/phase3/step2_staging_report.md) · [Reference data](reports/phase3/step3_reference_data_report.md) · [Clean layer](reports/phase3/step4_clean_layer_report.md) · [Analytical layer](reports/phase3/step5_analytical_layer_report.md) |
+| 4 — Statistics | [EDA & statistical analysis](reports/phase4/eda_statistical_analysis_report.md) |
+| 5 — Geospatial | [Geospatial analysis](reports/phase5/geospatial_analysis_report.md) |
+| 6 — Dashboard | [Dashboard report](reports/phase6/dashboard_report.md) |
