@@ -48,7 +48,8 @@ All results describe **police-recorded injury accidents** and their **concentrat
   commune codes harmonised with the INSEE COG history; anomalies flagged, coordinates never silently corrected.
 - **Layered PostgreSQL/PostGIS warehouse** (staging → clean → analytics) with lineage, primary/foreign keys and no
   double counting across one-to-many tables.
-- **Independent validation at every stage** — 509 automated checks, results stored in `meta.dq_check`.
+- **Independent validation at every stage** — 509 automated checks (484 warehouse checks stored in `meta.dq_check`;
+  the 25 dashboard checks are read-only and store nothing).
 - **Descriptive statistical analysis** — temporal patterns, severity, environment and road users (χ², Cramér's V,
   95 % confidence intervals); no machine learning or predictive modelling.
 - **Geospatial analysis** — department and commune distributions, 1 km grid hotspots and their persistence across years.
@@ -245,3 +246,11 @@ Full methodology and evidence, in project order:
 | 4 — Statistics | [EDA & statistical analysis](reports/phase4/eda_statistical_analysis_report.md) |
 | 5 — Geospatial | [Geospatial analysis](reports/phase5/geospatial_analysis_report.md) |
 | 6 — Dashboard | [Dashboard report](reports/phase6/dashboard_report.md) |
+
+## Acknowledgements
+
+This project relies on open data published by the **Observatoire national interministériel de la sécurité routière
+(ONISR, Ministère de l'Intérieur)**, the **Institut national de l'information géographique et forestière (IGN)** and
+the **Institut national de la statistique et des études économiques (INSEE)**, distributed through
+[data.gouv.fr](https://www.data.gouv.fr), and on map tiles from **© OpenStreetMap contributors**. Thanks to these
+organisations and contributors for making the data openly available.
