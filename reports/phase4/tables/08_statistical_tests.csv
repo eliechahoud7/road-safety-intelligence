@@ -1,0 +1,13 @@
+factor,outcome,excluded_not_recorded,n,chi2,dof,p_value,cramers_v,min_expected
+lum,accident severity (light/hospitalised/fatal),8.0,361585,9319.8,8,0.0e+00,0.114,197.3
+atm,accident severity (light/hospitalised/fatal),26.0,361567,2524.1,16,0.0e+00,0.059,60.1
+surf,accident severity (light/hospitalised/fatal),530.0,361063,1017.9,16,1.7e-206,0.038,9.8
+agg,accident severity (light/hospitalised/fatal),0.0,361593,25252.1,2,0.0e+00,0.264,7439.1
+catr_grp,accident severity (light/hospitalised/fatal),1.0,361592,26934.0,12,0.0e+00,0.193,22.8
+catu,user severity (unhurt/light/hospitalised/killed),0.0,809407,46439.7,6,0.0e+00,0.169,1687.1
+sexe,user severity (unhurt/light/hospitalised/killed),20.0,809387,6619.7,3,0.0e+00,0.09,6841.2
+age_group,user severity (unhurt/light/hospitalised/killed),881.0,808526,29117.9,24,0.0e+00,0.11,841.0
+mode,user severity (unhurt/light/hospitalised/killed),0.0,809407,191495.0,27,0.0e+00,0.281,113.5
+night (00-05) vs day,fatal accident,,361593,1185.6,1,8.1e-260,0.057,1721.6
+weekend vs weekday,fatal accident,,361593,333.6,1,1.6e-74,0.03,5301.4
+year (excl. 2020),fatal accident,,316472,47.7,5,4.0e-09,0.012,2901.0

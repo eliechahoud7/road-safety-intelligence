@@ -1,0 +1,7 @@
+check,values,status
+accidents: annual table = accident_fact = department aggregate,"(361593, 361593, 361593)",pass
+killed: annual table = accident_fact = clean.road_user,"(21619, 21619, 21619)",pass
+accidents: monthly table,"(361593, 361593)",pass
+accidents: weekday x hour table,"(361593, 361593)",pass
+accidents: each environmental table,"(361593, 361593, 361593, 361593, 361593, 361593)",pass
+users: road-user table = road_user_fact,"(821517, 821517)",pass

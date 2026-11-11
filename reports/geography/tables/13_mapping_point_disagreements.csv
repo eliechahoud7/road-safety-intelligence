@@ -1,0 +1,19 @@
+year,Num_Acc,acc_date,dep,com_raw,com_original,transformation_class,is_COMD_or_COMA_on_accident_date,successor_at_accident_date,successor_2026,status_at_accident_date,com_from_point_admin_express,point_in_successor_at_date,mapping_confidence,dist_point_to_successor_m
+2019,201900003206,2019-10-22,74,74181,74181,merger,False,74112,74112,resolved,74010,False,"medium (INSEE deterministic, point disagrees)",243.0
+2019,201900005086,2019-06-12,38,38435,38435,merger,True,38395,38395,resolved,38039,False,"medium (INSEE deterministic, point disagrees)",2.4
+2019,201900009993,2019-02-10,91,91182,91182,merger,True,91228,91228,resolved,91521,False,"medium (INSEE deterministic, point disagrees)",379.7
+2019,201900015390,2019-02-03,27,27175,27175,merger,True,27070,27070,resolved,27016,False,"medium (INSEE deterministic, point disagrees)",1.1
+2019,201900017912,2019-06-18,74,74268,74268,merger,True,74010,74010,resolved,74061,False,"medium (INSEE deterministic, point disagrees)",199.8
+2019,201900022857,2019-09-09,81,81260,81260,merger,True,81233,81233,resolved,81182,False,"medium (INSEE deterministic, point disagrees)",69.3
+2019,201900032144,2019-03-08,16,16004,16004,merger,True,16230,16230,resolved,16072,False,"medium (INSEE deterministic, point disagrees)",116.5
+2019,201900043132,2019-08-31,17,17392,17392,merger,False,17160,17160,resolved,17328,False,"medium (INSEE deterministic, point disagrees)",234.2
+2019,201900050841,2019-05-16,86,86277,86277,merger,True,86281,86281,resolved,86053,False,"medium (INSEE deterministic, point disagrees)",1.5
+2020,202000000429,2020-06-23,71,71511,71511,merger,True,71270,71270,resolved,71497,False,"medium (INSEE deterministic, point disagrees)",0.0
+2020,202000005622,2020-06-19,91,91182,91182,merger,True,91228,91228,resolved,91340,False,"medium (INSEE deterministic, point disagrees)",45.7
+2020,202000011262,2020-09-12,50,50416,50416,merger,True,50129,50129,resolved,50041,False,"medium (INSEE deterministic, point disagrees)",0.8
+2020,202000017382,2020-06-12,50,50203,50203,merger,True,50129,50129,resolved,50294,False,"medium (INSEE deterministic, point disagrees)",662.3
+2020,202000020512,2020-01-21,49,49043,49043,merger,True,49367,49367,resolved,49176,False,"medium (INSEE deterministic, point disagrees)",98.3
+2021,202100032544,2021-06-24,14,14505,14505,merger,True,14150,14150,resolved,14226,False,"medium (INSEE deterministic, point disagrees)",3.5
+2021,202100033280,2021-06-21,80,80447,80447,merger,True,80621,80621,resolved,80186,False,"medium (INSEE deterministic, point disagrees)",274.1
+2021,202100044780,2021-04-07,78,78524,78524,merger,True,78158,78158,resolved,78126,False,"medium (INSEE deterministic, point disagrees)",11.3
+2021,202100056258,2021-01-02,50,50416,50416,merger,True,50129,50129,resolved,50041,False,"medium (INSEE deterministic, point disagrees)",7.8

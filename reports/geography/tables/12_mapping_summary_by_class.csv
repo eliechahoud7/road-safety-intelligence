@@ -1,0 +1,4 @@
+transformation_class,accidents,codes
+code_change_one_to_one,3,3
+merger,594,242
+unresolvable_not_in_insee_history,1,1

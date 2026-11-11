@@ -1,0 +1,9 @@
+check,values,status
+departments: Σ accidents = accident_fact,"(361593, 361593)",pass
+departments: Σ killed = accident_fact,"(21619, 21619)",pass
+communes: Σ accidents (incl. N/C group) = accident_fact,"(361593, 361593)",pass
+communes: Σ accidents = departments Σ,"(361593, 361593)",pass
+grid: Σ accidents = hotspot_point = eligible in accident_fact,"(360934, 360934, 360934)",pass
+hotspot_point: non-eligible / wrong-commune / corrected rows,"(0, 0, 0, 0)",pass
+hotspot_point: SRID != 2154 / duplicate num_acc,"(0, 0, 0)",pass
+96 departments mapped,"(96, 96)",pass

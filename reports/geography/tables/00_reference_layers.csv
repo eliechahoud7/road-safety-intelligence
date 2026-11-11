@@ -1,0 +1,8 @@
+year,communes_total,departements_total,invalid_commune_geoms,invalid_dep_geoms,metro_communes,metro_departements,duplicate_commune_codes
+2019,35015,101,4,4,34886,96,0
+2020,34968,101,0,0,34839,96,0
+2021,34836,96,0,0,34836,96,0
+2022,34826,96,0,0,34826,96,0
+2023,34816,96,0,0,34816,96,0
+2024,34806,96,0,0,34806,96,0
+2025,34746,96,0,0,34746,96,0

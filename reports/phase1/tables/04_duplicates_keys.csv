@@ -1,0 +1,29 @@
+year,table,rows,exact_duplicate_rows,dupkey[Num_Acc],dupkey[id_usager],dupkey[Num_Acc+id_vehicule+num_veh+place+catu+sexe+an_nais],dupkey[id_vehicule],dupkey[Num_Acc+num_veh],dupkey[Num_Acc+id_vehicule]
+2019,caracteristiques,58840,0,0.0,,,,,
+2019,lieux,58840,0,0.0,,,,,
+2019,usagers,132977,101,,column absent,287.0,,,
+2019,vehicules,100710,0,,,,0.0,106.0,0.0
+2020,caracteristiques,47744,0,0.0,,,,,
+2020,lieux,47744,0,0.0,,,,,
+2020,usagers,105295,63,,column absent,199.0,,,
+2020,vehicules,81066,0,,,,0.0,0.0,0.0
+2021,caracteristiques,56518,0,0.0,,,,,
+2021,lieux,56518,0,0.0,,,,,
+2021,usagers,129248,0,,0,277.0,,,
+2021,vehicules,97315,0,,,,0.0,0.0,0.0
+2022,caracteristiques,55302,0,0.0,,,,,
+2022,lieux,55302,0,0.0,,,,,
+2022,usagers,126662,0,,0,327.0,,,
+2022,vehicules,94493,0,,,,0.0,4.0,0.0
+2023,caracteristiques,54822,0,0.0,,,,,
+2023,lieux,70860,0,31908.0,,,,,
+2023,usagers,125789,0,,0,423.0,,,
+2023,vehicules,93585,0,,,,0.0,0.0,0.0
+2024,caracteristiques,54402,0,0.0,,,,,
+2024,lieux,70248,0,31491.0,,,,,
+2024,usagers,125187,0,,0,394.0,,,
+2024,vehicules,92678,0,,,,0.0,2.0,0.0
+2025,caracteristiques,55093,0,0.0,,,,,
+2025,lieux,71116,0,31854.0,,,,,
+2025,usagers,126376,0,,0,501.0,,,
+2025,vehicules,93865,0,,,,0.0,0.0,0.0

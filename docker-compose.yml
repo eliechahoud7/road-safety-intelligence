@@ -1,0 +1,25 @@
+# Road Safety Intelligence — PostgreSQL 18 + PostGIS 3.6 (local development database)
+# Credentials are NOT stored here: they are read from the local .env file (see .env.example).
+# Host port defaults to 5433 because a native PostgreSQL 18 already listens on 5432.
+services:
+  db:
+    image: postgis/postgis:18-3.6@sha256:4a43e3c3e5d55b9208240fc71db543b79c638766280c625a425bd0a2390989c4
+    container_name: rsi_postgis
+    restart: unless-stopped
+    environment:
+      POSTGRES_DB: ${RSI_DB_NAME:?set RSI_DB_NAME in .env}
+      POSTGRES_USER: ${RSI_DB_USER:?set RSI_DB_USER in .env}
+      POSTGRES_PASSWORD: ${RSI_DB_PASSWORD:?set RSI_DB_PASSWORD in .env}
+    ports:
+      - "127.0.0.1:${RSI_DB_PORT:-5433}:5432"   # bound to localhost only
+    volumes:
+      - rsi_pgdata:/var/lib/postgresql             # persistent data (named volume)
+      - ./db/init:/docker-entrypoint-initdb.d:ro   # runs once, on first initialisation only
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U $${POSTGRES_USER} -d $${POSTGRES_DB}"]
+      interval: 5s
+      timeout: 5s
+      retries: 20
+
+volumes:
+  rsi_pgdata:

@@ -1,0 +1,8 @@
+year,metro_accidents_dep_normalised,eff_decimals_<=2_(~1km),eff_decimals_3_(~100m),eff_decimals_4_(~10m),eff_decimals_>=5,coord_missing,coord_outside_metro_bbox,dist_dep_median_>100km,dist_dep_median_>150km,lat_lon_possibly_swapped
+2019,56016,456,1097,6019,48444,0,1,32,2,0
+2020,45121,201,793,4482,39645,0,0,37,0,0
+2021,53540,248,768,4464,48060,0,0,23,0,0
+2022,52380,165,742,4156,47317,0,0,23,0,0
+2023,51641,188,726,4142,46585,0,0,26,0,0
+2024,51058,197,694,3925,46242,0,3,15,6,3
+2025,51837,209,768,4076,46784,0,1,8,1,1

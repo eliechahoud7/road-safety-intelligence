@@ -1,0 +1,8 @@
+year,an_values,Num_Acc_prefix_not_year,Num_Acc_len_values,hrmn_bad_format,hrmn_out_of_range,invalid_dates,accidents_per_month_min,accidents_per_month_max,usager_an_nais_missing_or_nonnum,usager_age_<0,usager_age_>100,usager_grav_-1,usager_sexe_-1
+2019,2019,0,12,0,0,0,4225,5520,0,0,177,0,0
+2020,2020,0,12,0,0,0,1208,5472,0,0,18,0,0
+2021,2021,0,12,0,0,0,3350,5865,3067,0,4,60,3062
+2022,2022,0,12,0,0,0,3901,5418,2874,0,7,241,2744
+2023,2023,0,12,0,0,0,3682,5452,2598,0,9,118,2431
+2024,2024,0,12,0,0,0,3792,5209,2579,0,6,0,2395
+2025,2025,0,12,0,0,0,3503,5281,2467,0,2,0,2220

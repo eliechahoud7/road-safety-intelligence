@@ -1,0 +1,8 @@
+year,accidents_caract,caract_rows,caract_without_lieux,lieux_without_caract,accidents_with_>1_lieux,max_lieux_per_accident,caract_without_vehicule,vehicule_acc_not_in_caract,caract_without_usager,usager_acc_not_in_caract,vehicules,usagers,usager_id_vehicule_not_in_vehicules,usager_veh_Num_Acc_mismatch,usager_veh_num_veh_mismatch,vehicules_without_usager,"usager_(Num_Acc,num_veh)_not_in_vehicules",vehicules_per_acc_mean,vehicules_per_acc_max,usagers_per_veh_mean,usagers_per_veh_max,id_vehicule_min,id_vehicule_max
+2019,58840,58840,0,0,0,1,0,0,0,0,100710,132977,0,0,0,2040,0,1.712,12,1.32,33,137982129,138306525
+2020,47744,47744,0,0,0,1,0,0,0,0,81066,105295,0,0,0,1899,0,1.698,10,1.299,34,154658350,154742275
+2021,56518,56518,0,0,0,1,0,0,0,0,97315,129248,0,0,0,6,0,1.722,20,1.328,28,100882,201765
+2022,55302,55302,0,0,0,1,0,0,0,0,94493,126662,0,0,0,0,0,1.709,25,1.34,38,715629,813953
+2023,54822,54822,0,0,15870,5,0,0,0,0,93585,125789,0,0,0,40,0,1.707,13,1.344,65,155583344,155680557
+2024,54402,54402,0,0,15645,5,0,0,0,0,92678,125187,0,0,0,24,0,1.704,11,1.351,56,155686118,155781759
+2025,55093,55093,0,0,15831,5,0,0,0,0,93865,126376,0,0,0,4,0,1.704,16,1.346,60,155878480,155975242

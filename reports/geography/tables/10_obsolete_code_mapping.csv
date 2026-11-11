@@ -1,0 +1,247 @@
+com_original,accidents,years,insee_name_last,com_valid_as_COM_until,first_accident_date,years_obsolete_at_first_accident,insee_mod,insee_mod_label,transformation_class,became_delegated_or_associated,delegated_status_suppressed_on,is_COMD_or_COMA_on_accident_date,successor_at_accident_date,status_at_accident_date,successor_2026,status_2026,chain,chain_mods
+01091,3,2019|2021,Châtillon-en-Michaille,2019-01-01,2019-05-26,0.4,32,Création de commune nouvelle,merger,COMD,,True,01033,resolved,01033,resolved,01091 -> 01033,32
+01186,1,2021,Hostiaz,2019-01-01,2021-11-26,2.9,32,Création de commune nouvelle,merger,COMD,,True,01185,resolved,01185,resolved,01186 -> 01185,32
+02475,1,2020,Menneville,2019-01-01,2020-02-14,1.12,32,Création de commune nouvelle,merger,COMD,,True,02360,resolved,02360,resolved,02475 -> 02360,32
+03123,1,2020,Givarlais,2016-01-01,2020-09-21,4.72,32,Création de commune nouvelle,merger,COMD,,True,03158,resolved,03158,resolved,03123 -> 03158,32
+04100,1,2021,Larche,2016-01-01,2021-08-01,5.58,32,Création de commune nouvelle,merger,COMD,,True,04120,resolved,04120,resolved,04100 -> 04120,32
+07016,1,2021,Asperjoc,2019-01-01,2021-09-17,2.71,32,Création de commune nouvelle,merger,COMD,,True,07011,resolved,07011,resolved,07016 -> 07011,32
+09302,2,2019|2021,Suc-et-Sentenac,2019-01-01,2019-06-29,0.49,32,Création de commune nouvelle,merger,COMD,,True,09334,resolved,09334,resolved,09302 -> 09334,32
+14004,1,2019,Aignerville,2017-01-01,2019-04-25,2.31,32,Création de commune nouvelle,merger,COMD,2021-05-26,True,14281,resolved,14281,resolved,14004 -> 14281,32
+14031,1,2020,Les Authieux-Papion,2017-01-01,2020-05-16,3.37,32,Création de commune nouvelle,merger,COMD,,True,14431,resolved,14431,resolved,14031 -> 14431,32
+14129,1,2020,Campeaux,2016-01-01,2020-01-05,4.01,32,Création de commune nouvelle,merger,COMD,,True,14061,resolved,14061,resolved,14129 -> 14061,32
+14157,2,2020,Cheux,2017-01-01,2020-01-27,3.07,32,Création de commune nouvelle,merger,COMD,,True,14098,resolved,14098,resolved,14157 -> 14098,32
+14188,1,2019,Coulvain,2016-01-01,2019-10-11,3.78,32,Création de commune nouvelle,merger,COMD,,True,14579,resolved,14579,resolved,14188 -> 14579,32
+14294,2,2019|2020,Garcelles-Secqueville,2019-01-01,2019-07-13,0.53,32,Création de commune nouvelle,merger,COMD,,True,14554,resolved,14554,resolved,14294 -> 14554,32
+14331,1,2019,Hiéville,2017-01-01,2019-01-28,2.07,32,Création de commune nouvelle,merger,COMD,,True,14654,resolved,14654,resolved,14331 -> 14654,32
+14339,1,2021,Hubert-Folie,2019-01-01,2021-09-05,2.68,32,Création de commune nouvelle,merger,COMD,,True,14538,resolved,14538,resolved,14339 -> 14538,32
+14372,1,2019,Livry,2017-01-01,2019-07-05,2.51,32,Création de commune nouvelle,merger,COMD,,True,14143,resolved,14143,resolved,14372 -> 14143,32
+14422,1,2020,Le Mesnil-Mauger,2017-01-01,2020-02-27,3.15,32,Création de commune nouvelle,merger,COMD,,True,14431,resolved,14431,resolved,14422 -> 14431,32
+14471,1,2019,Notre-Dame-de-Courson,2016-01-01,2019-07-13,3.53,32,Création de commune nouvelle,merger,COMD,,True,14371,resolved,14371,resolved,14471 -> 14371,32
+14472,1,2020,L'Oudon,2017-01-01,2020-12-01,3.92,32,Création de commune nouvelle,merger,COMA/COMD,,True,14654,resolved,14654,resolved,14472 -> 14654,32
+14481,1,2020,Les Oubeaux,2017-01-01,2020-10-04,3.76,32,Création de commune nouvelle,merger,COMD,,True,14342,resolved,14342,resolved,14481 -> 14342,32
+14489,2,2019,Ouville-la-Bien-Tournée,2017-01-01,2019-02-22,2.14,32,Création de commune nouvelle,merger,COMD,,True,14654,resolved,14654,resolved,14489 -> 14654,32
+14493,1,2020,Percy-en-Auge,2017-01-01,2020-06-29,3.49,32,Création de commune nouvelle,merger,COMD,,True,14431,resolved,14431,resolved,14493 -> 14431,32
+14505,1,2021,Placy,2019-01-01,2021-06-24,2.48,32,Création de commune nouvelle,merger,COMD,,True,14150,resolved,14150,resolved,14505 -> 14150,32
+14518,1,2020,Préaux-Saint-Sébastien,2016-01-01,2020-02-06,4.1,32,Création de commune nouvelle,merger,COMD,,True,14371,resolved,14371,resolved,14518 -> 14371,32
+14577,1,2020,Saint-Gabriel-Brécy,2017-01-01,2020-07-31,3.58,32,Création de commune nouvelle,merger,COMD,2020-06-01,False,14200,resolved,14200,resolved,14577 -> 14200,32
+14600,1,2020,Saint-Julien-le-Faucon,2017-01-01,2020-11-09,3.85,32,Création de commune nouvelle,merger,COMD,,True,14431,resolved,14431,resolved,14600 -> 14431,32
+14670,1,2020,Secqueville-en-Bessin,2016-01-01,2020-07-27,4.57,32,Création de commune nouvelle,merger,COMD,,True,14543,resolved,14543,resolved,14670 -> 14543,32
+14691,2,2021,Tilly-la-Campagne,2019-01-01,2021-07-09,2.52,32,Création de commune nouvelle,merger,COMD,,True,14538,resolved,14538,resolved,14691 -> 14538,32
+15044,1,2020,Chastel-sur-Murat,2017-01-01,2020-08-13,3.61,32,Création de commune nouvelle,merger,COMD,,True,15138,resolved,15138,resolved,15044 -> 15138,32
+15136,1,2020,Mourjou,2019-01-01,2020-09-01,1.67,32,Création de commune nouvelle,merger,COMD,,True,15027,resolved,15027,resolved,15136 -> 15027,32
+16004,3,2019|2020,Aignes-et-Puypéroux,2017-01-01,2019-03-08,2.18,32,Création de commune nouvelle,merger,COMD,2020-11-05,True,16230,resolved,16230,resolved,16004 -> 16230,32
+16149,2,2019,Genouillac,2019-01-01,2019-03-21,0.22,32,Création de commune nouvelle,merger,COMD,,True,16192,resolved,16192,resolved,16149 -> 16192,32
+16179,1,2019,Lamérac,2016-01-01,2019-05-01,3.33,32,Création de commune nouvelle,merger,COMD,,True,16224,resolved,16224,resolved,16179 -> 16224,32
+16247,1,2020,Nonaville,2017-01-01,2020-08-22,3.64,32,Création de commune nouvelle,merger,COMD,2026-01-01,True,16204,resolved,16204,resolved,16247 -> 16204,32
+16259,1,2019,La Péruse,2019-01-01,2019-12-06,0.93,32,Création de commune nouvelle,merger,COMD,,True,16192,resolved,16192,resolved,16259 -> 16192,32
+16274,1,2019,Rancogne,2019-01-01,2019-06-13,0.45,32,Création de commune nouvelle,merger,COMD,2020-03-01,True,16406,resolved,16406,resolved,16274 -> 16406,32
+16328,1,2020,Saint-Laurent-de-Belzagot,2017-01-01,2020-02-03,3.09,32,Création de commune nouvelle,merger,COMD,2020-11-05,True,16230,resolved,16230,resolved,16328 -> 16230,32
+16344,1,2019,Saint-Projet-Saint-Constant,2019-01-01,2019-05-14,0.36,32,Création de commune nouvelle,merger,COMD,,True,16281,resolved,16281,resolved,16344 -> 16281,32
+17189,1,2021,Hiers-Brouage,2019-01-01,2021-06-02,2.42,32,Création de commune nouvelle,merger,COMD,,True,17219,resolved,17219,resolved,17189 -> 17219,32
+17272,1,2020,Péré,2018-03-01,2020-04-18,2.13,32,Création de commune nouvelle,merger,COMD,,True,17340,resolved,17340,resolved,17272 -> 17340,32
+17392,1,2019,Saint-Romain-sur-Gironde,2018-01-01,2019-08-31,1.66,32,Création de commune nouvelle,merger,,,False,17160,resolved,17160,resolved,17392 -> 17160,32
+19127,1,2021,Marc-la-Tour,2019-01-01,2021-11-13,2.87,32,Création de commune nouvelle,merger,COMD,,True,19098,resolved,19098,resolved,19127 -> 19098,32
+21073,4,2019|2020|2021,Bierre-lès-Semur,2019-01-01,2019-07-08,0.51,32,Création de commune nouvelle,merger,COMD,,True,21272,resolved,21272,resolved,21073 -> 21272,32
+21513,1,2019,Quemigny-Poisot,2019-01-01,2019-02-16,0.13,32,Création de commune nouvelle,merger,COMD,2020-01-01,True,21178,resolved,21178,resolved,21513 -> 21178,32
+22051,1,2021,Dolo,2016-01-01,2021-03-27,5.23,32,Création de commune nouvelle,merger,COMD,2025-01-01,True,22084,resolved,22084,resolved,22051 -> 22084,32
+22078,1,2021,Hengoat,2019-01-01,2021-02-21,2.14,32,Création de commune nouvelle,merger,COMD,,True,22264,resolved,22264,resolved,22078 -> 22264,32
+22100,1,2020,Langast,2019-01-01,2020-08-02,1.59,32,Création de commune nouvelle,merger,COMD,,True,22219,resolved,22219,resolved,22100 -> 22219,32
+22154,2,2019|2020,Morieux,2019-01-01,2019-08-15,0.62,32,Création de commune nouvelle,merger,COMD,,True,22093,resolved,22093,resolved,22154 -> 22093,32
+22173,5,2019|2020|2021,Planguenoual,2019-01-01,2019-10-05,0.76,32,Création de commune nouvelle,merger,COMD,,True,22093,resolved,22093,resolved,22173 -> 22093,32
+22247,2,2019,Pommerit-Jaudy,2019-01-01,2019-05-11,0.36,32,Création de commune nouvelle,merger,COMD,,True,22264,resolved,22264,resolved,22247 -> 22264,32
+22298,1,2020,Saint-Guen,2017-01-01,2020-08-18,3.63,32,Création de commune nouvelle,merger,COMD,,True,22158,resolved,22158,resolved,22298 -> 22158,32
+22303,1,2020,Saint-Jacut-du-Mené,2016-01-01,2020-04-18,4.3,32,Création de commune nouvelle,merger,COMD,,True,22046,resolved,22046,resolved,22303 -> 22046,32
+24079,1,2021,Cantillac,2019-01-01,2021-05-21,2.38,32,Création de commune nouvelle,merger,COMD,,True,24064,resolved,24064,resolved,24079 -> 24064,32
+24170,1,2021,Eyvirat,2019-01-01,2021-08-05,2.59,32,Création de commune nouvelle,merger,COMD,,True,24064,resolved,24064,resolved,24170 -> 24064,32
+24249,1,2021,Manaurie,2019-01-01,2021-09-07,2.68,32,Création de commune nouvelle,merger,COMD,,True,24172,resolved,24172,resolved,24249 -> 24172,32
+24270,1,2020,Milhac-d'Auberoche,2017-01-01,2020-05-29,3.41,32,Création de commune nouvelle,merger,COMD,,True,24026,resolved,24026,resolved,24270 -> 24026,32
+24447,1,2019,Sainte-Marie-de-Chignac,2017-01-01,2019-08-31,2.66,32,Création de commune nouvelle,merger,COMD,,True,24053,resolved,24053,resolved,24447 -> 24053,32
+24497,1,2019,Sainte-Sabine-Born,2016-01-01,2019-01-07,3.02,32,Création de commune nouvelle,merger,COMD,,True,24028,resolved,24028,resolved,24497 -> 24028,32
+24530,1,2020,Sencenac-Puy-de-Fourches,2019-01-01,2020-04-04,1.26,32,Création de commune nouvelle,merger,COMD,,True,24064,resolved,24064,resolved,24530 -> 24064,32
+27084,1,2020,Bosc-Bénard-Commin,2016-01-01,2020-11-30,4.91,32,Création de commune nouvelle,merger,COMD,2019-12-31,False,27105,resolved,27105,resolved,27084 -> 27105,32
+27175,1,2019,Corny,2019-01-01,2019-02-03,0.09,32,Création de commune nouvelle,merger,COMD,,True,27070,resolved,27070,resolved,27175 -> 27070,32
+27265,1,2019,Francheville,2017-01-01,2019-03-23,2.22,32,Création de commune nouvelle,merger,COMD,,True,27679,resolved,27679,resolved,27265 -> 27679,32
+27270,2,2019|2021,Fresne-l'Archevêque,2019-01-01,2019-03-23,0.22,32,Création de commune nouvelle,merger,COMD,,True,27070,resolved,27070,resolved,27270 -> 27070,32
+27515,1,2019,Saint-Aubin-le-Guichard,2016-01-01,2019-03-16,3.2,32,Création de commune nouvelle,merger,COMD,,True,27049,resolved,27049,resolved,27515 -> 27049,32
+27647,1,2019,Tosny,2017-01-01,2019-05-06,2.34,32,Création de commune nouvelle,merger,COMD,2021-01-01,True,27676,resolved,27676,resolved,27647 -> 27676,32
+27648,1,2019,Tostes,2017-01-01,2019-11-02,2.83,32,Création de commune nouvelle,merger,COMD,,True,27412,resolved,27412,resolved,27648 -> 27412,32
+27653,1,2021,Tourny,2016-01-01,2021-06-16,5.46,32,Création de commune nouvelle,merger,COMD,,True,27213,resolved,27213,resolved,27653 -> 27213,32
+28002,2,2019,Allaines-Mervilliers,2019-01-01,2019-01-28,0.07,32,Création de commune nouvelle,merger,COMD,,True,28199,resolved,28199,resolved,28002 -> 28199,32
+28165,1,2020,Frétigny,2019-01-01,2020-08-04,1.59,32,Création de commune nouvelle,merger,COMD,,True,28331,resolved,28331,resolved,28165 -> 28331,32
+28179,1,2019,Germignonville,2016-01-01,2019-07-11,3.52,32,Création de commune nouvelle,merger,COMD,,True,28406,resolved,28406,resolved,28179 -> 28406,32
+28205,1,2019,Lanneray,2019-01-01,2019-03-17,0.21,32,Création de commune nouvelle,merger,COMD,2020-03-14,True,28334,resolved,28334,resolved,28205 -> 28334,32
+28224,1,2019,Lutz-en-Dunois,2017-01-01,2019-07-11,2.52,32,Création de commune nouvelle,merger,COMD,2020-03-15,True,28330,resolved,28330,resolved,28224 -> 28330,32
+28311,1,2019,Le Puiset,2019-01-01,2019-06-16,0.45,32,Création de commune nouvelle,merger,COMD,,True,28199,resolved,28199,resolved,28311 -> 28199,32
+28361,1,2019,Bleury-Saint-Symphorien,2016-01-01,2019-04-24,3.31,32,Création de commune nouvelle,merger,COMD,,True,28015,resolved,28015,resolved,28361 -> 28015,32
+29129,1,2021,Locmaria-Berrien,2019-01-01,2021-01-24,2.06,32,Création de commune nouvelle,merger,COMD,,True,29227,resolved,29227,resolved,29129 -> 29227,32
+33267,1,2021,Marcillac,2019-01-01,2021-08-04,2.59,32,Création de commune nouvelle,merger,COMD,,True,33380,resolved,33380,resolved,33267 -> 33380,32
+35083,2,2019,Coglès,2017-01-01,2019-01-18,2.05,32,Création de commune nouvelle,merger,COMD,,True,35191,resolved,35191,resolved,35083 -> 35191,32
+35100,2,2019,Dompierre-du-Chemin,2019-01-01,2019-03-07,0.18,32,Création de commune nouvelle,merger,COMD,,True,35163,resolved,35163,resolved,35100 -> 35163,32
+35301,1,2021,Saint-M'Hervon,2019-01-01,2021-01-22,2.06,32,Création de commune nouvelle,merger,COMD,,True,35184,resolved,35184,resolved,35301 -> 35184,32
+35341,1,2019,Tremblay,2019-01-01,2019-03-09,0.18,32,Création de commune nouvelle,merger,COMD,,True,35004,resolved,35004,resolved,35341 -> 35004,32
+38293,1,2019,Panissage,2019-01-01,2019-06-27,0.48,32,Création de commune nouvelle,merger,COMD,2020-03-15,True,38560,resolved,38560,resolved,38293 -> 38560,32
+38411,1,2019,Saint-Laurent-de-Mure,1967-12-31,2019-07-22,51.56,41,Changement de code dû à un changement de département,code_change_one_to_one,,,False,69288,resolved,69288,resolved,38411 -> 69288,41
+38435,1,2019,Saint-Pancrasse,2019-01-01,2019-06-12,0.44,32,Création de commune nouvelle,merger,COMD,,True,38395,resolved,38395,resolved,38435 -> 38395,32
+38534,2,2019|2021,Vénosc,2017-01-01,2019-05-21,2.38,32,Création de commune nouvelle,merger,COMD,,True,38253,resolved,38253,resolved,38534 -> 38253,32
+40009,1,2019,Arjuzanx,2019-01-01,2019-06-18,0.46,32,Création de commune nouvelle,merger,COMD,,True,40197,resolved,40197,resolved,40009 -> 40197,32
+41082,1,2019,Feings,2019-01-01,2019-12-06,0.93,32,Création de commune nouvelle,merger,COMD,,True,41059,resolved,41059,resolved,41082 -> 41059,32
+41092,4,2019|2021,Fougères-sur-Bièvre,2019-01-01,2019-01-15,0.04,32,Création de commune nouvelle,merger,COMD,,True,41059,resolved,41059,resolved,41092 -> 41059,32
+41257,1,2019,Thenay,2019-01-01,2019-01-28,0.07,32,Création de commune nouvelle,merger,COMD,,True,41059,resolved,41059,resolved,41257 -> 41059,32
+42082,1,2020,Dancé,2019-01-01,2020-09-26,1.74,32,Création de commune nouvelle,merger,COMD,,True,42268,resolved,42268,resolved,42082 -> 42268,32
+44160,1,2019,Saint-Géréon,2019-01-01,2019-02-13,0.12,32,Création de commune nouvelle,merger,,,False,44003,resolved,44003,resolved,44160 -> 44003,32
+46278,1,2020,Saint-Matré,2019-01-01,2020-01-30,1.08,32,Création de commune nouvelle,merger,COMD,,True,46033,resolved,46033,resolved,46278 -> 46033,32
+48101,1,2020,Montbrun,2017-01-01,2020-03-11,3.19,32,Création de commune nouvelle,merger,COMD,,True,48146,resolved,48146,resolved,48101 -> 48146,32
+48122,1,2019,Quézac,2017-01-01,2019-02-20,2.14,32,Création de commune nouvelle,merger,COMD,,True,48146,resolved,48146,resolved,48122 -> 48146,32
+48154,1,2021,Saint-Georges-de-Lévéjac,2017-01-01,2021-06-13,4.45,32,Création de commune nouvelle,merger,COMD,,True,48094,resolved,48094,resolved,48154 -> 48094,32
+48189,1,2020,Servières,2019-01-01,2020-09-09,1.69,32,Création de commune nouvelle,merger,COMD,,True,48127,resolved,48127,resolved,48189 -> 48127,32
+49014,1,2019,Aviré,2016-12-15,2019-06-22,2.52,32,Création de commune nouvelle,merger,COMD,,True,49331,resolved,49331,resolved,49014 -> 49331,32
+49024,1,2019,Beausse,2015-12-15,2019-03-02,3.21,32,Création de commune nouvelle,merger,COMD,,True,49244,resolved,49244,resolved,49024 -> 49244,32
+49040,1,2021,Bouzillé,2015-12-15,2021-06-02,5.46,32,Création de commune nouvelle,merger,COMD,,True,49069,resolved,49126,resolved,49040 -> 49069 -> 49126,32 -> 50
+49043,1,2020,Brain-sur-Longuenée,2015-12-28,2020-01-21,4.07,32,Création de commune nouvelle,merger,COMD,,True,49367,resolved,49367,resolved,49043 -> 49367,32
+49046,3,2019|2020|2021,Brézé,2019-01-01,2019-03-31,0.24,32,Création de commune nouvelle,merger,COMD,,True,49060,resolved,49060,resolved,49046 -> 49060,32
+49049,1,2020,Brion,2016-01-01,2020-05-10,4.36,32,Création de commune nouvelle,merger,COMD,,True,49138,resolved,49138,resolved,49049 -> 49138,32
+49065,2,2019,Les Hauts d'Anjou,2019-01-01,2019-02-03,0.09,32,Création de commune nouvelle,merger,COMD,,True,49080,resolved,49080,resolved,49065 -> 49080,32
+49088,2,2019|2020,Chazé-Henry,2016-12-15,2019-09-01,2.71,32,Création de commune nouvelle,merger,COMD,,True,49248,resolved,49248,resolved,49088 -> 49248,32
+49097,1,2021,Cheviré-le-Rouge,2016-01-01,2021-05-09,5.35,32,Création de commune nouvelle,merger,COMD,,True,49018,resolved,49018,resolved,49097 -> 49018,32
+49101,2,2020,Clefs-Val d'Anjou,2016-01-01,2020-10-02,4.75,32,Création de commune nouvelle,merger,COMD,,True,49018,resolved,49018,resolved,49101 -> 49018,32
+49117,1,2019,La Daguenière,2016-01-01,2019-10-06,3.76,32,Création de commune nouvelle,merger,COMD,,True,49307,resolved,49307,resolved,49117 -> 49307,32
+49119,1,2019,Daumeray,2017-01-01,2019-09-28,2.74,32,Création de commune nouvelle,merger,COMD,,True,49220,resolved,49220,resolved,49119 -> 49220,32
+49128,1,2021,Échemiré,2016-01-01,2021-02-03,5.09,32,Création de commune nouvelle,merger,COMD,,True,49018,resolved,49018,resolved,49128 -> 49018,32
+49143,1,2019,Fougeré,2016-01-01,2019-10-24,3.81,32,Création de commune nouvelle,merger,COMD,,True,49018,resolved,49018,resolved,49143 -> 49018,32
+49149,2,2019|2020,Gennes-Val de Loire,2018-01-01,2019-05-17,1.37,32,Création de commune nouvelle,merger,COMD,,True,49261,resolved,49261,resolved,49149 -> 49261,32
+49150,1,2019,Genneteil,2016-12-15,2019-06-11,2.49,32,Création de commune nouvelle,merger,COMD,,True,49228,resolved,49228,resolved,49150 -> 49228,32
+49154,1,2020,Grézillé,2016-01-01,2020-10-09,4.77,32,Création de commune nouvelle,merger,COMD,,True,49261,resolved,49261,resolved,49154 -> 49149 -> 49261,32 -> 32
+49159,1,2019,Huillé,2019-01-01,2019-06-30,0.49,32,Création de commune nouvelle,merger,COMD,,True,49174,resolved,49174,resolved,49159 -> 49174,32
+49162,1,2020,Jallais,2015-12-15,2020-07-02,4.55,32,Création de commune nouvelle,merger,COMD,,True,49023,resolved,49023,resolved,49162 -> 49023,32
+49177,1,2020,Liré,2015-12-15,2020-02-21,4.19,32,Création de commune nouvelle,merger,COMD,,True,49069,resolved,49126,resolved,49177 -> 49069 -> 49126,32 -> 50
+49229,1,2021,Noyant-la-Gravoyère,2016-12-15,2021-07-14,4.58,32,Création de commune nouvelle,merger,COMD,,True,49331,resolved,49331,resolved,49229 -> 49331,32
+49238,1,2019,Pellouailles-les-Vignes,2016-01-01,2019-08-22,3.64,32,Création de commune nouvelle,merger,COMD,,True,49323,resolved,49323,resolved,49238 -> 49323,32
+49258,1,2020,La Renaudière,2015-12-15,2020-03-15,4.25,32,Création de commune nouvelle,merger,COMD,,True,49301,resolved,49301,resolved,49258 -> 49301,32
+49264,2,2019|2020,Saint-André-de-la-Marche,2015-12-15,2019-12-13,3.99,32,Création de commune nouvelle,merger,COMD,,True,49301,resolved,49301,resolved,49264 -> 49301,32
+49279,1,2020,Saint-Georges-des-Sept-Voies,2016-01-01,2020-06-07,4.43,32,Création de commune nouvelle,merger,COMD,,True,49261,resolved,49261,resolved,49279 -> 49149 -> 49261,32 -> 32
+49281,1,2019,Saint-Georges-des-Gardes,2015-12-15,2019-02-13,3.16,32,Création de commune nouvelle,merger,COMD,,True,49092,resolved,49092,resolved,49281 -> 49092,32
+49285,1,2019,Saint-Germain-sur-Moine,2015-12-15,2019-04-06,3.31,32,Création de commune nouvelle,merger,COMD,,True,49301,resolved,49301,resolved,49285 -> 49301,32
+49290,1,2019,Saint-Jean-des-Mauvrets,2016-12-15,2019-09-19,2.76,32,Création de commune nouvelle,merger,COMD,,True,49167,resolved,49167,resolved,49290 -> 49167,32
+49304,2,2020,Saint-Martin-de-la-Place,2018-01-01,2020-01-10,2.02,32,Création de commune nouvelle,merger,COMD,,True,49261,resolved,49261,resolved,49304 -> 49261,32
+49305,1,2019,Saint-Martin-du-Bois,2016-12-15,2019-11-29,2.95,32,Création de commune nouvelle,merger,COMD,,True,49331,resolved,49331,resolved,49305 -> 49331,32
+49337,1,2019,Soucelles,2019-01-01,2019-07-04,0.5,32,Création de commune nouvelle,merger,COMD,,True,49377,resolved,49377,resolved,49337 -> 49377,32
+49349,3,2019|2020,Tillières,2015-12-15,2019-12-12,3.99,32,Création de commune nouvelle,merger,COMD,,True,49301,resolved,49301,resolved,49349 -> 49301,32
+49365,1,2019,Les Verchers-sur-Layon,2016-12-30,2019-11-21,2.89,32,Création de commune nouvelle,merger,COMD,,True,49125,resolved,49125,resolved,49365 -> 49125,32
+50012,1,2019,Angoville-sur-Ay,2016-01-01,2019-02-01,3.09,32,Création de commune nouvelle,merger,COMD,2020-03-09,True,50267,resolved,50267,resolved,50012 -> 50267,32
+50018,1,2019,Argouges,2017-01-01,2019-11-08,2.85,32,Création de commune nouvelle,merger,COMD,,True,50487,resolved,50487,resolved,50018 -> 50487,32
+50103,1,2021,Carquebut,2019-01-01,2021-07-14,2.53,32,Création de commune nouvelle,merger,COMD,,True,50523,resolved,50523,resolved,50103 -> 50523,32
+50127,1,2020,Chef-du-Pont,2016-01-01,2020-02-03,4.09,32,Création de commune nouvelle,merger,COMD,,True,50523,resolved,50523,resolved,50127 -> 50523,32
+50132,1,2019,Les Chéris,2016-01-01,2019-03-03,3.17,32,Création de commune nouvelle,merger,COMD,,True,50168,resolved,50168,resolved,50132 -> 50168,32
+50173,52,2019|2020|2021,Équeurdreville-Hainneville,2016-01-01,2019-01-24,3.06,32,Création de commune nouvelle,merger,COMD,,True,50129,resolved,50129,resolved,50173 -> 50129,32
+50203,41,2019|2020|2021,La Glacerie,2016-01-01,2019-02-02,3.09,32,Création de commune nouvelle,merger,COMD,,True,50129,resolved,50129,resolved,50203 -> 50129,32
+50224,3,2019|2020|2021,Guilberville,2016-01-01,2019-11-04,3.84,32,Création de commune nouvelle,merger,COMD,,True,50601,resolved,50601,resolved,50224 -> 50601,32
+50313,1,2019,Le Mesnil-Herman,2019-01-01,2019-06-23,0.47,32,Création de commune nouvelle,merger,COMD,,True,50546,resolved,50546,resolved,50313 -> 50546,32
+50320,2,2021,Le Mesnil-Rogues,2019-01-01,2021-04-14,2.28,32,Création de commune nouvelle,merger,COMD,,True,50197,resolved,50197,resolved,50320 -> 50197,32
+50348,1,2021,Montmartin-en-Graignes,2019-01-01,2021-11-10,2.86,32,Création de commune nouvelle,merger,COMD,,True,50099,resolved,50099,resolved,50348 -> 50099,32
+50354,1,2019,Montsurvent,2019-01-01,2019-10-13,0.78,32,Création de commune nouvelle,merger,COMD,,True,50215,resolved,50215,resolved,50354 -> 50215,32
+50404,1,2019,Placy-Montaigu,2017-01-01,2019-10-26,2.81,32,Création de commune nouvelle,merger,COMD,,True,50444,resolved,50444,resolved,50404 -> 50444,32
+50416,17,2019|2020|2021,Querqueville,2016-01-01,2019-01-15,3.04,32,Création de commune nouvelle,merger,COMD,,True,50129,resolved,50129,resolved,50416 -> 50129,32
+50427,2,2019|2020,Ravenoville,2019-01-01,2019-08-20,0.63,32,Création de commune nouvelle,merger,COMD,,True,50523,resolved,50523,resolved,50427 -> 50523,32
+50458,1,2020,Saint-Côme-du-Mont,2016-01-01,2020-09-16,4.71,32,Création de commune nouvelle,merger,COMD,,True,50099,resolved,50099,resolved,50458 -> 50099,32
+50485,2,2020|2021,Saint-Hilaire-Petitville,2019-01-01,2020-02-14,1.12,32,Création de commune nouvelle,merger,COMD,2025-01-01,True,50099,resolved,50099,resolved,50485 -> 50099,32
+50503,1,2019,Saint-Lô-d'Ourville,2019-01-01,2019-07-31,0.58,32,Création de commune nouvelle,merger,COMD,,True,50412,resolved,50412,resolved,50503 -> 50412,32
+50516,1,2021,Saint-Martin-des-Champs,2019-01-01,2021-09-18,2.71,32,Création de commune nouvelle,merger,COMD,,True,50025,resolved,50025,resolved,50516 -> 50025,32
+50602,81,2019|2020|2021,Tourlaville,2016-01-01,2019-02-07,3.1,32,Création de commune nouvelle,merger,COMD,,True,50129,resolved,50129,resolved,50602 -> 50129,32
+50611,1,2020,Urville-Nacqueville,2017-01-01,2020-06-14,3.45,32,Création de commune nouvelle,merger,COMD,,True,50041,resolved,50041,resolved,50611 -> 50041,32
+51064,1,2020,Bisseuil,2016-01-01,2020-08-10,4.61,32,Création de commune nouvelle,merger,COMD,,True,51030,resolved,51030,resolved,51064 -> 51030,32
+51261,1,2019,Fresne-lès-Reims,2017-01-01,2019-02-08,2.1,32,Création de commune nouvelle,merger,COMD,,True,51075,resolved,51075,resolved,51261 -> 51075,32
+52299,1,2019,Maconcourt,1972-12-01,2019-10-17,46.87,33,Fusion association,merger,COMA,,True,52456,resolved,52456,resolved,52299 -> 52456,33
+53004,1,2019,Ampoigné,2018-01-01,2019-08-31,1.66,32,Création de commune nouvelle,merger,COMD,,True,53124,resolved,53124,resolved,53004 -> 53124,32
+53014,1,2020,Azé,2019-01-01,2020-10-23,1.81,32,Création de commune nouvelle,merger,COMD,,True,53062,resolved,53062,resolved,53014 -> 53062,32
+53194,1,2020,Ruillé-le-Gravelais,2016-01-01,2020-02-23,4.15,32,Création de commune nouvelle,merger,COMD,,True,53137,resolved,53137,resolved,53194 -> 53137,32
+53207,1,2020,Saint-Christophe-du-Luat,2019-01-01,2020-02-14,1.12,32,Création de commune nouvelle,merger,COMD,,True,53097,resolved,53097,resolved,53207 -> 53097,32
+53215,1,2019,Saint-Fort,2019-01-01,2019-01-13,0.03,32,Création de commune nouvelle,merger,COMD,,True,53062,resolved,53062,resolved,53215 -> 53062,32
+54342,1,2021,Mancieulles,2017-01-01,2021-06-16,4.45,32,Création de commune nouvelle,merger,COMD,,True,54099,resolved,54099,resolved,54342 -> 54099,32
+59355,1,2019,Lomme,2000-02-27,2019-08-21,19.48,33,Fusion association,merger,COMA,,True,59350,resolved,59350,resolved,59355 -> 59350,33
+59540,3,2020|2021,Saint-Pol-sur-Mer,2010-12-09,2020-03-11,9.25,33,Fusion association,merger,COMA,,True,59183,resolved,59183,resolved,59540 -> 59183,33
+60018,1,2019,Anserville,2016-01-01,2019-07-12,3.53,32,Création de commune nouvelle,merger,COMD,2022-01-01,True,60088,resolved,60088,resolved,60018 -> 60088,32
+60080,1,2019,Boissy-le-Bois,2019-01-01,2019-12-29,0.99,32,Création de commune nouvelle,merger,COMD,,True,60209,resolved,60209,resolved,60080 -> 60209,32
+61003,1,2020,Anceins,2016-01-01,2020-07-18,4.54,32,Création de commune nouvelle,merger,COMD,,True,61167,resolved,61167,resolved,61003 -> 61167,32
+61042,1,2019,Bellou-sur-Huisne,2016-01-01,2019-01-20,3.05,32,Création de commune nouvelle,merger,,,False,61345,resolved,61345,resolved,61042 -> 61345,32
+61110,1,2021,La Cochère,2017-01-01,2021-03-14,4.2,32,Création de commune nouvelle,merger,COMD,,True,61474,resolved,61474,resolved,61110 -> 61474,32
+61147,1,2019,Dorceau,2016-01-01,2019-01-20,3.05,32,Création de commune nouvelle,merger,,,False,61345,resolved,61345,resolved,61147 -> 61345,32
+61161,1,2021,Fel,2017-01-01,2021-01-08,4.02,32,Création de commune nouvelle,merger,COMD,,True,61474,resolved,61474,resolved,61161 -> 61474,32
+61172,1,2019,Fontenai-les-Louvets,2019-01-01,2019-07-23,0.56,32,Création de commune nouvelle,merger,COMD,,True,61228,resolved,61228,resolved,61172 -> 61228,32
+61175,1,2019,Forges,2016-01-01,2019-01-01,3.0,32,Création de commune nouvelle,merger,COMD,2016-12-08,False,61341,resolved,61341,resolved,61175 -> 61341,32
+61179,1,2021,La Fresnaye-au-Sauvage,2016-01-01,2021-07-14,5.53,32,Création de commune nouvelle,merger,COMD,,True,61339,resolved,61339,resolved,61179 -> 61339,32
+61184,1,2019,Gauville,2016-01-01,2019-02-03,3.09,32,Création de commune nouvelle,merger,COMD,,True,61167,resolved,61167,resolved,61184 -> 61167,32
+61205,3,2020|2021,Heugon,2016-01-01,2020-07-27,4.57,32,Création de commune nouvelle,merger,COMD,,True,61167,resolved,61167,resolved,61205 -> 61167,32
+61253,1,2019,Marmouillé,2016-01-01,2019-08-24,3.64,32,Création de commune nouvelle,merger,COMD,,True,61081,resolved,61081,resolved,61253 -> 61081,32
+61282,2,2019,Monnai,2016-01-01,2019-11-04,3.84,32,Création de commune nouvelle,merger,COMD,,True,61167,resolved,61167,resolved,61282 -> 61167,32
+61377,1,2019,Saint-Cornier-des-Landes,2015-01-01,2019-01-21,4.05,32,Création de commune nouvelle,merger,COMD,,True,61486,resolved,61486,resolved,61377 -> 61486,32
+61428,1,2019,Saint-Maurice-du-Désert,2016-01-01,2019-01-04,3.01,32,Création de commune nouvelle,merger,COMD,,True,61463,resolved,61463,resolved,61428 -> 61463,32
+61431,1,2019,Saint-Michel-des-Andaines,2016-01-01,2019-08-17,3.62,32,Création de commune nouvelle,merger,COMD,,True,61483,resolved,61483,resolved,61431 -> 61483,32
+62226,1,2019,Clarques,2016-01-01,2019-08-21,3.64,32,Création de commune nouvelle,merger,COMD,2020-06-02,True,62691,resolved,62691,resolved,62226 -> 62691,32
+67374,1,2021,Pfettisheim,2016-01-01,2021-07-22,5.56,32,Création de commune nouvelle,merger,COMD,,True,67495,resolved,67495,resolved,67374 -> 67495,32
+67469,1,2020,Singrist,2016-01-01,2020-06-15,4.45,32,Création de commune nouvelle,merger,COMD,,True,67004,resolved,67004,resolved,67469 -> 67004,32
+68310,1,2020,Sigolsheim,2016-01-01,2020-11-02,4.84,32,Création de commune nouvelle,merger,COMD,,True,68162,resolved,68162,resolved,68310 -> 68162,32
+69101,1,2021,Jarnioux,2019-01-01,2021-07-31,2.58,32,Création de commune nouvelle,merger,COMD,,True,69159,resolved,69114,resolved,69101 -> 69159 -> 69114,32 -> 50
+69211,2,2019|2021,Saint-Jean-d'Ardières,2019-01-01,2019-05-22,0.39,32,Création de commune nouvelle,merger,COMD,,True,69019,resolved,69019,resolved,69211 -> 69019,32
+69223,1,2019,Saint-Loup,2019-01-01,2019-01-05,0.01,32,Création de commune nouvelle,merger,COMD,,True,69157,resolved,69157,resolved,69223 -> 69157,32
+71511,1,2020,Sennecé-lès-Mâcon,1972-01-01,2020-06-23,48.48,33,Fusion association,merger,COMA,,True,71270,resolved,71270,resolved,71511 -> 71270,33
+72081,1,2019,Cherreau,2019-01-01,2019-08-04,0.59,32,Création de commune nouvelle,merger,COMD,,True,72080,resolved,72080,resolved,72081 -> 72080,32
+72116,1,2019,Dissé-sous-Ballon,2019-01-01,2019-08-26,0.65,32,Création de commune nouvelle,merger,COMD,2020-09-25,True,72189,resolved,72189,resolved,72116 -> 72189,32
+72284,2,2021,Saint-Germain-sur-Sarthe,2019-01-01,2021-04-02,2.25,32,Création de commune nouvelle,merger,COMD,,True,72138,resolved,72138,resolved,72284 -> 72138,32
+73002,2,2019|2021,Aiguebelle,2019-01-01,2019-10-14,0.78,32,Création de commune nouvelle,merger,COMD,,True,73212,resolved,73212,resolved,73002 -> 73212,32
+73203,1,2019,Pontamafrey-Montpascal,2019-01-01,2019-07-05,0.51,32,Création de commune nouvelle,merger,COMD,,True,73135,resolved,73135,resolved,73203 -> 73135,32
+74011,12,2019|2020|2021,Annecy-le-Vieux,2017-01-01,2019-12-26,2.98,32,Création de commune nouvelle,merger,COMD,,True,74010,resolved,74010,resolved,74011 -> 74010,32
+74093,10,2019|2020|2021,Cran-Gevrier,2017-01-01,2019-02-06,2.1,32,Création de commune nouvelle,merger,COMD,,True,74010,resolved,74010,resolved,74093 -> 74010,32
+74110,1,2019,Entremont,2019-01-01,2019-06-23,0.47,32,Création de commune nouvelle,merger,,,False,74212,resolved,74212,resolved,74110 -> 74212,32
+74181,1,2019,Metz-Tessy,2016-01-01,2019-10-22,3.81,32,Création de commune nouvelle,merger,,,False,74112,resolved,74112,resolved,74181 -> 74112,32
+74182,4,2019|2021,Meythet,2017-01-01,2019-04-18,2.29,32,Création de commune nouvelle,merger,COMD,,True,74010,resolved,74010,resolved,74182 -> 74010,32
+74217,1,2019,Pringy,2017-01-01,2019-12-13,2.95,32,Création de commune nouvelle,merger,COMD,,True,74010,resolved,74010,resolved,74217 -> 74010,32
+74245,1,2020,Saint-Martin-Bellevue,2017-01-01,2020-06-26,3.48,32,Création de commune nouvelle,merger,COMD,,True,74282,resolved,74282,resolved,74245 -> 74282,32
+74268,18,2019|2020,Seynod,2017-01-01,2019-01-16,2.04,32,Création de commune nouvelle,merger,COMD,,True,74010,resolved,74010,resolved,74268 -> 74010,32
+75075,1,2019,Vanves,1968-01-01,2019-05-09,51.35,41,Changement de code dû à un changement de département,code_change_one_to_one,,,False,92075,resolved,92075,resolved,75075 -> 92075,41
+76080,1,2019,Bermonville,2017-01-01,2019-08-28,2.65,32,Création de commune nouvelle,merger,COMD,,True,76258,resolved,76258,resolved,76080 -> 76258,32
+76191,1,2020,Cressy,2019-01-01,2020-06-28,1.49,32,Création de commune nouvelle,merger,COMD,,True,76034,resolved,76034,resolved,76191 -> 76034,32
+76248,1,2019,Estouteville-Écalles,2017-01-01,2019-06-18,2.46,32,Création de commune nouvelle,merger,COMD,,True,76146,resolved,76146,resolved,76248 -> 76146,32
+76659,1,2019,Saint-Wandrille-Rançon,2016-01-01,2019-06-20,3.47,32,Création de commune nouvelle,merger,COMD,,True,76164,resolved,76164,resolved,76659 -> 76164,32
+77028,2,2019|2021,Beautheil,2019-01-01,2019-01-20,0.05,32,Création de commune nouvelle,merger,COMD,2020-03-15,True,77433,resolved,77433,resolved,77028 -> 77433,32
+77170,1,2021,Épisy,2016-01-01,2021-04-04,5.26,32,Création de commune nouvelle,merger,COMD,,True,77316,resolved,77316,resolved,77170 -> 77316,32
+77491,2,2019|2020,Veneux-les-Sablons,2017-01-01,2019-12-06,2.93,32,Création de commune nouvelle,merger,COMD,,True,77316,resolved,77316,resolved,77491 -> 77316,32
+78251,1,2019,Fourqueux,2019-01-01,2019-10-01,0.75,32,Création de commune nouvelle,merger,COMD,,True,78551,resolved,78551,resolved,78251 -> 78551,32
+78469,1,2019,Ormoy-la-Rivière,1968-01-01,2019-01-28,51.07,41,Changement de code dû à un changement de département,code_change_one_to_one,,,False,91469,resolved,91469,resolved,78469 -> 91469,41
+78503,2,2019|2020,Port-Villez,2019-01-01,2019-02-16,0.13,32,Création de commune nouvelle,merger,COMD,2022-01-01,True,78320,resolved,78320,resolved,78503 -> 78320,32
+78524,27,2019|2020|2021,Rocquencourt,2019-01-01,2019-02-02,0.09,32,Création de commune nouvelle,merger,COMD,,True,78158,resolved,78158,resolved,78524 -> 78158,32
+79043,2,2019,Bouillé-Loretz,2019-01-01,2019-07-20,0.55,32,Création de commune nouvelle,merger,COMD,,True,79014,resolved,79014,resolved,79043 -> 79014,32
+79168,1,2019,Massais,2017-01-01,2019-08-13,2.61,32,Création de commune nouvelle,merger,COMD,,True,79063,resolved,79063,resolved,79168 -> 79063,32
+79171,4,2019|2020|2021,Mauzé-Thouarsais,2019-01-01,2019-11-24,0.9,32,Création de commune nouvelle,merger,COMD,,True,79329,resolved,79329,resolved,79171 -> 79329,32
+79178,2,2021,Missé,2019-01-01,2021-05-27,2.4,32,Création de commune nouvelle,merger,COMD,,True,79329,resolved,79329,resolved,79178 -> 79329,32
+79188,2,2020,Moutiers-sous-Chantemerle,2019-01-01,2020-06-27,1.49,32,Création de commune nouvelle,merger,COMD,,True,79179,resolved,79179,resolved,79188 -> 79179,32
+79261,1,2021,Saint-Jouin-de-Milly,2019-01-01,2021-04-18,2.29,32,Création de commune nouvelle,merger,COMD,,True,79179,resolved,79179,resolved,79261 -> 79179,32
+79279,1,2019,Saint-Martin-lès-Melle,2019-01-01,2019-04-07,0.26,32,Création de commune nouvelle,merger,COMD,,True,79174,resolved,79174,resolved,79279 -> 79174,32
+79292,1,2019,Sainte-Radegonde,2019-01-01,2019-01-08,0.02,32,Création de commune nouvelle,merger,COMD,,True,79329,resolved,79329,resolved,79292 -> 79329,32
+79321,2,2021,Taizé-Maulais,2019-01-01,2021-06-12,2.44,32,Création de commune nouvelle,merger,COMD,,True,79196,resolved,79196,resolved,79321 -> 79196,32
+80447,1,2021,Hyencourt-le-Grand,2017-01-01,2021-06-21,4.47,32,Création de commune nouvelle,merger,COMD,,True,80621,resolved,80621,resolved,80447 -> 80621,32
+80608,1,2019,Omiécourt,2017-01-01,2019-05-21,2.38,32,Création de commune nouvelle,merger,COMD,,True,80621,resolved,80621,resolved,80608 -> 80621,32
+80761,2,2020,Tilloy-lès-Conty,2019-01-01,2020-02-21,1.14,32,Création de commune nouvelle,merger,COMD,,True,80485,resolved,80485,resolved,80761 -> 80485,32
+81113,1,2020,Labastide-Dénat,2017-01-01,2020-10-21,3.8,32,Création de commune nouvelle,merger,COMD,,True,81218,resolved,81218,resolved,81113 -> 81218,32
+81260,2,2019,Saint-Lieux-Lafenasse,2019-01-01,2019-05-12,0.36,32,Création de commune nouvelle,merger,COMD,,True,81233,resolved,81233,resolved,81260 -> 81233,32
+81296,1,2021,Terre-Clapier,2019-01-01,2021-05-06,2.34,32,Création de commune nouvelle,merger,COMD,,True,81233,resolved,81233,resolved,81296 -> 81233,32
+85027,5,2019|2021,Boufféré,2019-01-01,2019-01-23,0.06,32,Création de commune nouvelle,merger,COMD,,True,85146,resolved,85146,resolved,85027 -> 85146,32
+85048,1,2021,Chambretaud,2019-01-01,2021-07-15,2.54,32,Création de commune nouvelle,merger,COMD,,True,85302,resolved,85302,resolved,85048 -> 85302,32
+85107,2,2019,La Guyonnière,2019-01-01,2019-01-13,0.03,32,Création de commune nouvelle,merger,COMD,,True,85146,resolved,85146,resolved,85107 -> 85146,32
+85217,3,2020|2021,Saint-Georges-de-Montaigu,2019-01-01,2020-05-22,1.39,32,Création de commune nouvelle,merger,COMD,,True,85146,resolved,85146,resolved,85217 -> 85146,32
+85224,5,2019|2020|2021,Saint-Hilaire-de-Loulay,2019-01-01,2019-05-12,0.36,32,Création de commune nouvelle,merger,COMD,,True,85146,resolved,85146,resolved,85224 -> 85146,32
+85279,1,2019,Saligny,2016-01-01,2019-10-18,3.79,32,Création de commune nouvelle,merger,COMD,,True,85019,resolved,85019,resolved,85279 -> 85019,32
+85299,1,2021,Velluire,2019-01-01,2021-04-02,2.25,32,Création de commune nouvelle,merger,COMD,,True,85177,resolved,85177,resolved,85299 -> 85177,32
+86021,1,2021,Benassay,2019-01-01,2021-08-03,2.59,32,Création de commune nouvelle,merger,COMD,2026-01-01,True,86123,resolved,86123,resolved,86021 -> 86123,32
+86030,1,2021,Blaslay,2017-01-01,2021-03-23,4.22,32,Création de commune nouvelle,merger,COMD,,True,86281,resolved,86281,resolved,86030 -> 86281,32
+86056,1,2019,La Chapelle-Montreuil,2019-01-01,2019-07-24,0.56,32,Création de commune nouvelle,merger,COMD,2026-01-01,True,86123,resolved,86123,resolved,86056 -> 86123,32
+86166,1,2019,Montreuil-Bonnin,2019-01-01,2019-01-02,0.0,32,Création de commune nouvelle,merger,COMD,2026-01-01,True,86123,resolved,86123,resolved,86166 -> 86123,32
+86188,1,2019,Payré,2019-01-01,2019-01-21,0.05,32,Création de commune nouvelle,merger,COMD,,True,86082,resolved,86082,resolved,86188 -> 86082,32
+86277,2,2019|2021,Varennes,2019-01-01,2019-05-16,0.37,32,Création de commune nouvelle,merger,COMA/COMD,,True,86281,resolved,86281,resolved,86277 -> 86281,32
+87026,1,2020,Bussière-Boffy,2016-01-01,2020-02-05,4.1,32,Création de commune nouvelle,merger,COMD,,True,87097,resolved,87097,resolved,87026 -> 87097,32
+87055,1,2019,Darnac,2019-01-01,2019-03-30,0.24,32,Création de commune nouvelle,merger,COMD,,True,87028,resolved,87028,resolved,87055 -> 87028,32
+87173,1,2019,Saint-Pardoux,2019-01-01,2019-05-22,0.39,32,Création de commune nouvelle,merger,COMD,,True,87128,resolved,87128,resolved,87173 -> 87128,32
+89429,1,2019,Vareilles,2016-01-01,2019-09-08,3.69,32,Création de commune nouvelle,merger,COMD,,True,89411,resolved,89411,resolved,89429 -> 89411,32
+89448,1,2020,Vignes,2019-01-01,2020-11-18,1.88,32,Création de commune nouvelle,merger,COMD,,True,89197,resolved,89197,resolved,89448 -> 89197,32
+89473,2,2019|2021,Villiers-sur-Tholon,2017-01-01,2019-03-09,2.18,32,Création de commune nouvelle,merger,COMD,,True,89003,resolved,89003,resolved,89473 -> 89003,32
+91182,25,2019|2020,Courcouronnes,2019-01-01,2019-01-24,0.06,32,Création de commune nouvelle,merger,COMD,2020-03-01,True,91228,resolved,91228,resolved,91182 -> 91228,32
+N/C,1,2022,,,2022-12-31,,,,unresolvable_not_in_insee_history,,,False,,code_unknown_to_insee,,code_unknown_to_insee,N/C,none

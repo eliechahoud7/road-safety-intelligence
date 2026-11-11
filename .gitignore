@@ -1,0 +1,19 @@
+# --- secrets & local environment -------------------------------------------
+.env
+.venv/
+__pycache__/
+*.py[cod]
+.claude/
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
+
+# --- raw data (re-downloadable; provenance kept in the _manifest.csv files) --
+# BAAC road-accident CSVs (ONISR) and their PDF documentation
+data/raw/baac/*/
+!data/raw/baac/_manifest.csv
+# IGN ADMIN EXPRESS COG archives (each > 100 MB) and extracted layers
+data/raw/geography/admin_express_cog/
+# INSEE COG CSVs
+data/raw/geography/insee_cog/*/
+# keep: data/raw/geography/_manifest.csv, data/raw/geography/insee_cog/_manifest.csv

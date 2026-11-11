@@ -1,0 +1,12 @@
+year,Num_Acc,dep,com,category,lat_original,long_original,lat_corrected,long_corrected,method,evidence_distance_to_declared_commune_m,status
+2024,202400008235,2B,2B033,swapped,"9,44460000","42,67720000",42.6772,9.4446,swap_lat_long,0.0,proposed - not applied to any data
+2024,202400011273,2B,2B120,swapped,"9,44085000","42,65160000",42.6516,9.44085,swap_lat_long,0.0,proposed - not applied to any data
+2024,202400013466,2B,2B033,swapped,"9,44430000","42,67720000",42.6772,9.4443,swap_lat_long,0.0,proposed - not applied to any data
+2025,202500038525,2B,2B120,swapped,"9,44368000","42,65284000",42.65284,9.44368,swap_lat_long,0.0,proposed - not applied to any data
+2019,201900006562,56,56260,wrong_department,"47,6395000","2,7687200",47.6395,-2.76872,flip_longitude_sign,0.0,proposed - not applied to any data
+2019,201900009272,14,14225,wrong_commune_same_dep,"49,2869700","0,0987700",49.28697,-0.09877,flip_longitude_sign,0.0,proposed - not applied to any data
+2019,201900032805,14,14181,wrong_commune_same_dep,"49,1510000","0,3171000",49.151,-0.3171,flip_longitude_sign,0.0,proposed - not applied to any data
+2019,201900033842,14,14117,wrong_commune_same_dep,"49,2876900","0,1175600",49.28769,-0.11756,flip_longitude_sign,0.0,proposed - not applied to any data
+2019,201900039195,14,14117,wrong_commune_same_dep,"49,2837000","0,1338600",49.2837,-0.13386,flip_longitude_sign,0.0,proposed - not applied to any data
+2019,201900051116,14,14327,wrong_commune_same_dep,"49,2126700","0,3421700",49.21267,-0.34217,flip_longitude_sign,0.0,proposed - not applied to any data
+2019,201900056094,14,14338,wrong_commune_same_dep,"49,3000000","0,0760000",49.3,-0.076,flip_longitude_sign,0.0,proposed - not applied to any data

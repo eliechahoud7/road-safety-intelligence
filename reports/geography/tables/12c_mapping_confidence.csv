@@ -1,0 +1,5 @@
+transformation_class,high (INSEE deterministic + point agrees),"medium (INSEE deterministic, point disagrees)",none,All
+code_change_one_to_one,3,0,0,3
+merger,576,18,0,594
+unresolvable_not_in_insee_history,0,0,1,1
+All,579,18,1,598
