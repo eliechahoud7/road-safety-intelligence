@@ -34,7 +34,7 @@ analysis → interactive Streamlit dashboard.
 - **Hotspots:** 1 % of non-empty 1 km cells hold 32.5 % of accidents but only 6.2 % of fatal accidents — accidents concentrate in cities, fatal accidents are dispersed on rural networks.
 
 All results describe **police-recorded injury accidents** and their **concentration**, not risk: no traffic-volume
-(exposure) data exists. See [Limitations](#limitations).
+(exposure) data exists. See [Limitations](#limitations--future-work).
 
 ---
 
@@ -225,13 +225,24 @@ sources and record their checksums in the committed manifests.
 project only. External datasets (ONISR BAAC, IGN ADMIN EXPRESS COG, INSEE COG) and map tiles (OpenStreetMap) are
 **not** covered; they remain under their own licences and attribution requirements listed above.
 
-## Limitations
+## Limitations & Future Work
+
+### Limitations
 
 - **Concentration, not risk:** no traffic-volume data; counts and hotspots show where recorded injury accidents occur.
 - **"Hospitalised"** (> 24 h) is not an officially certified indicator since 2019 and is not comparable with years ≤ 2017.
 - **Recording changes:** fugitive road users recorded from 2021; multi-segment `Lieux` records from 2023; road category 7 unstable; 2020 COVID anomaly.
 - **Geography:** 659 accidents (0.18 %) excluded from point analysis (606 wrong-commune points kept for sensitivity); 11 proposed coordinate corrections are documented but not applied; 2019–2020 coordinates are less precise.
 - **Descriptive statistics only:** bivariate associations (χ², Cramér's V) — no causal claims, no predictive modelling.
+
+### Future Improvements
+
+These are possible next steps, not implemented features:
+
+- **Exposure data:** integrate traffic-volume counts where they are published, to estimate accident rates (risk) on the covered road network instead of concentration only.
+- **Coordinate corrections:** review the 11 documented coordinate corrections, apply the confirmed ones and re-run the hotspot analysis as a sensitivity check.
+- **New BAAC releases:** extend the checksummed pipeline to future annual releases, keeping the recording-change flags explicit in year-on-year comparisons.
+- **Multivariable analysis:** go beyond bivariate tests (for example severity models adjusted for several factors), still reported as associations rather than causal effects.
 
 ## Methodology & reports
 
